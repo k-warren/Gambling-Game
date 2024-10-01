@@ -1,1 +1,1 @@
-# gice us all ur fooken money
+# give us all ur fooken money

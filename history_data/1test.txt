@@ -1,0 +1,4 @@
+[red]Lost 30 from Slots[/red] - 2024-05-21 09:42:08.561540
+[red]Lost 100 from Roulette[/red] - 2024-05-21 09:44:08.932405
+[green]Won 193 from Roulette[/green] - 2024-05-21 09:44:42.365307
+[red]Lost 20 from Roulette[/red] - 2024-05-23 12:27:56.585202
